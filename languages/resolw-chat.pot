@@ -1,0 +1,96 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Resolw Chat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-08 11:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.1"
+
+#: units.php:8
+msgid "Active support unit for chat"
+msgstr ""
+
+#: login.php:13
+msgid "Do not have a Resolw account?"
+msgstr ""
+
+#: login.php:5
+msgid "Email"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://resolw.com"
+msgstr ""
+
+#: resolw_wp_plugin.php:348
+msgid "Invaid email or password!"
+msgstr ""
+
+#: resolw_wp_plugin.php:343
+msgid "Invalid email!"
+msgstr ""
+
+#: login.php:10
+msgid "Log In"
+msgstr ""
+
+#: units.php:18
+msgid "Log OUT"
+msgstr ""
+
+#: resolw_wp_plugin.php:321 resolw_wp_plugin.php:353 resolw_wp_plugin.php:381
+msgid "Login error!"
+msgstr ""
+
+#: resolw_wp_plugin.php:336 resolw_wp_plugin.php:393
+msgid "Must have Resolw admin rights!"
+msgstr ""
+
+#: login.php:7
+msgid "Password"
+msgstr ""
+
+#: units.php:12
+msgid "Refresh"
+msgstr ""
+
+#. Name of the plugin
+msgid "Resolw Chat"
+msgstr ""
+
+#: units.php:2
+msgid "Resolw Chat Settings"
+msgstr ""
+
+#: login.php:2
+msgid "Resolw Login"
+msgstr ""
+
+#: units.php:7
+msgid "Resolw team name"
+msgstr ""
+
+#: login.php:14
+msgid "Try for free for 30 days"
+msgstr ""
+
+#: resolw_wp_plugin.php:229
+msgid "Unknown error!"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Wordpress plugin for the only customer support tool designed for remote "
+"troubleshooting and instant problem-solving. Powered with Pointing video "
+"calls - live remote video guidance. Loved by teams who sell, repair and "
+"maintain devices, appliances and gadgets."
+msgstr ""
